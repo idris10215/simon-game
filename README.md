@@ -4,7 +4,7 @@
 The Simon Game is a simple web-based memory game where the player needs to repeat a sequence of button presses. Each round, a new button is added to the sequence, making it progressively harder to remember the order. This project demonstrates the use of HTML, CSS, and JavaScript to create an interactive game.
 
 ## Features
-- Start the game by pressing any key.
+- Start the game by pressing any key on the key board.
 - Play a memory challenge by following the pattern shown.
 - The game speeds up as the sequence gets longer.
 - If the player makes a mistake, the game restarts with a new sequence.
