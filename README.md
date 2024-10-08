@@ -17,7 +17,7 @@ The Simon Game is a simple web-based memory game where the player needs to repea
 ## Installation
 
 ### Prerequisites
-- A modern web browser (Chrome, Firefox, etc.)
+- A modern web browser (Chrome, Edge, etc.)
 
 ### Steps
 1. Clone the repository:
