@@ -4,7 +4,6 @@ var gamepattern =[];
 
 var userclickedpattern =[];
 
-
 var started = false;
 var level = 0;
 
@@ -82,7 +81,6 @@ function playsound(name){
     audio.play();
 
 }
-
 
 function animatepress(currentcolor){
     $("#"+currentcolor).addClass("pressed");
